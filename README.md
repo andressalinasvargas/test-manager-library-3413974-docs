@@ -43,11 +43,12 @@ antes de las 3:00 p. m.**: no se presenta nada que no esté en GitHub.
 
 | Carpeta | Contenido |
 |---|---|
+| [`spec-laravel-react/`](spec-laravel-react/) | **Adaptación oficial del spec para el reto: Backend PHP (Laravel) + Frontend React (Vite)** |
 | [`spec-python/`](spec-python/) | El spec de Manager Library escrito para un backend Python |
 | [`spec-.net/`](spec-.net/) | El mismo sistema especificado para un backend .NET |
 
-Las dos versiones describen el **mismo producto** (las mismas historias, reglas de negocio y
-endpoints); cambian las decisiones de tecnología. Ninguna de las dos es el stack del reto.
+Las versiones describen el **mismo producto** (las mismas historias, reglas de negocio y
+endpoints); `spec-laravel-react/` documenta con fidelidad la implementación en Laravel y React.
 
 ## Cómo se lee el spec
 
