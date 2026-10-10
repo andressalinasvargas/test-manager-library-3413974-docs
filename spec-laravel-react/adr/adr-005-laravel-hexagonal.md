@@ -16,3 +16,4 @@
   - La base de datos PostgreSQL y el esquema `library` pueden evolucionar sin modificar una sola regla de negocio.
   - El código cumple rigurosamente con los principios de desarrollo guiado por especificación (SDD).
 - **Cómo se verifica:** Pruebas de arquitectura que aseguran que `app/Domain` no importa clases de Laravel ni de `app/Adapters`.
+

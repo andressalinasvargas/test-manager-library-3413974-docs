@@ -138,3 +138,4 @@ Todos los endpoints se exponen obligatoriamente bajo el prefijo unificado `/api/
 - **`GET /api/v1/reports/most-borrowed` (HU-10, CA-10.1, CA-10.2):**
   - **Acceso:** Autenticado.
   - **Respuesta 200:** Ranking Top 10 de libros con mayor cantidad de préstamos, computado sobre las instantáneas congeladas de `loan_item` (ADR-004).
+

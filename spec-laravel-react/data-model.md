@@ -125,3 +125,4 @@ El modelo físico asegura la presencia estricta de las columnas requeridas:
 14. `loan.loaned_at`
 15. `loan_item.due_at`
 16. `loan_item.returned_at`
+

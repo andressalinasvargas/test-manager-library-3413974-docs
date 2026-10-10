@@ -15,3 +15,4 @@
   - Empaquetado en Docker de alta velocidad con imágenes pequeñas (Alpine Nginx).
   - Experiencia de usuario ágil y responsiva para bibliotecarios y administradores durante la feria.
 - **Cómo se verifica:** El contenedor `manager-library-app` sirve la interfaz en `http://localhost:5173` y responde correctamente sin errores de consola al consumir la API de Laravel.
+

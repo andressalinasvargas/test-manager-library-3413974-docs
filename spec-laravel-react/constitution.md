@@ -125,3 +125,4 @@ La documentación técnica, los mensajes de error retornados por la API hacia el
 ## Artículo XII — Nada se da por hecho sin evidencia
 
 Una tarea del plan de trabajo (`tasks.md`, de T-01 a T-23) se considera completada únicamente cuando su evidencia tangible existe, se puede inspeccionar y se ejecuta exitosamente. No se admiten tareas marcadas como hechas por simple promesa de código.
+

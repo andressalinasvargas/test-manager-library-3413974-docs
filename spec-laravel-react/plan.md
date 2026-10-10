@@ -80,3 +80,4 @@ El desarrollo se fundamenta en los siguientes pilares:
   - Interfaz SPA completa desarrollada con React y Vite: Login, Catálogo, Socios, Préstamos, Devoluciones, Vencidos y Reporte.
 - **T-23 — Landing Page Pública (`page`):**
   - Sitio web estático institucional responsive que presenta el producto sin llamadas a la API y sin exponer credenciales.
+

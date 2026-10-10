@@ -136,3 +136,4 @@ Especificación funcional completa del sistema **Manager Library** adaptado a **
 3. **RNF-3 (Seguridad y Confidencialidad):** Ningún secreto (contraseñas, claves privadas, hashes) puede figurar en repositorios de código, respuestas HTTP públicas ni archivos de registro (logs).
 4. **RNF-4 (Desacoplamiento Tecnológico):** El dominio de negocio debe permanecer independiente de frameworks y bibliotecas de terceros (Arquitectura Hexagonal).
 5. **RNF-5 (Portabilidad y Despliegue en Contenedores):** El sistema completo debe iniciar de forma reproducible mediante Docker Compose en un solo comando (`docker compose up -d`), con base de datos limpia poblada por migraciones.
+
